@@ -204,7 +204,13 @@ footer {
 		margin-bottom: 20px;
 	}
 
+	header input {
+		width: 100%;
+	}
 	.foot {
 		width: 80%;
+	}
+	footer {
+		margin-top: 20px;
 	}
 }
