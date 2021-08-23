@@ -47,7 +47,9 @@ input {
 	padding-left: 10px;
 	border-radius: 5px;
 }
-
+header ::placeholder {
+	color: #fff;
+}
 button {
 	padding: 10px 20px;
 	border: 2px solid #fff;
@@ -199,6 +201,7 @@ footer {
 	}
 	.col {
 		width: 80%;
+		margin-bottom: 20px;
 	}
 
 	.foot {
